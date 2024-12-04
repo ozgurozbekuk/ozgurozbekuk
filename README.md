@@ -6,6 +6,9 @@ I have experience with WordPress and love exploring new tools and technologies.
 Learning and improving my skills every day keeps me motivated.  
 Let's build something amazing together! 🚀
 
+# www.linkedin.com/in/ozgurozbekuk
+# https://ozgurportfolio.netlify.app/
+
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,json,mysql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,django,electron,bootstrap,tailwind,express&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
