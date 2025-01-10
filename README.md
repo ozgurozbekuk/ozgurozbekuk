@@ -15,5 +15,4 @@ Let's build something amazing together! 🚀
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,django,electron,bootstrap,tailwind,express&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,mongodb,wordpress,woocommerce,nodejs&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgurozbekuk)](https://github.com/anuraghazra/github-readme-stats)
