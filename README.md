@@ -17,4 +17,4 @@ Let's build something amazing together! 🚀
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgurozbekuk)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=ozgurozbekuk&color=green)
+![count profil viewer](https://komarev.com/ghpvc/?username=ozgurozbekuk&color=green)
